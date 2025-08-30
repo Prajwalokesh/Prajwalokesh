@@ -1,4 +1,4 @@
-#  Hi 👋,I'm Prajwal L
+#  Hi 👋, I'm Prajwal L
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Tech+Enthusiast+%7C+Developer+%7C+Learner" />
 
 A passionate Computer Science Engineer
